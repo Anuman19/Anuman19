@@ -45,8 +45,8 @@ I specialize in bridging the gap between **high-availability legacy systems** an
 
 ### 🔌 Get In Touch
 <p align="center">
-  <a href="https://www.linkedin.com/in/naveen-anpalagan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://ch.linkedin.com/in/naveen-anpalagan">
+    <img src="https://img.shields.io/badge/LinkedIn-Naveen%20Anpalagan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="mailto:navu@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
