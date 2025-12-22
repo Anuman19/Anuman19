@@ -1,7 +1,7 @@
 # 🛡️ System Security Engineer | DevOps Specialist
 
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300/2b2b2b/a9b7c6?text=SYSTEM+SECURITY+ENGINEER+PORTFOLIO" alt="Banner" width="100%" />
+  <img src="banner.png" alt="Banner" width="100%" />
 </p>
 
 ### 👨‍💻 About Me
