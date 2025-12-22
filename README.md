@@ -1,6 +1,8 @@
 # 🛡️ System Security Engineer | DevOps Specialist
 
-![Banner](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Secure%20by%20Design&fontSize=50&animation=fadeIn)
+<p align="center">
+  <img src="https://via.placeholder.com/1200x300/2b2b2b/a9b7c6?text=SYSTEM+SECURITY+ENGINEER+PORTFOLIO" alt="Banner" width="100%" />
+</p>
 
 ### 👨‍💻 About Me
 I am a **System Security Engineer** focused on building resilient, automated, and secure IT infrastructures. I bridge the gap between complex legacy systems (AIX/SLES) and modern DevOps workflows. 
@@ -14,7 +16,7 @@ I am a **System Security Engineer** focused on building resilient, automated, an
 
 ### 🛠️ Technical Arsenal
 
-| Category | technologies |
+| Category | Technologies |
 | :--- | :--- |
 | **OS & Virt** | `SLES` `RHEL` `AIX` `VMWare` |
 | **Security** | `System Hardening` `Identity Management` `REST Security` |
@@ -32,8 +34,7 @@ I am a **System Security Engineer** focused on building resilient, automated, an
 ---
 
 ### 🔌 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/naveen-anpalagan)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-anpalagan)
 
 ---
 *“Complexity is the worst enemy of security.” — Bruce Schneier*
