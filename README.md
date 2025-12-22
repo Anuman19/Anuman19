@@ -41,10 +41,6 @@ I specialize in bridging the gap between **high-availability legacy systems** an
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuman19&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anuman19&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 🔌 Get In Touch
@@ -52,7 +48,7 @@ I specialize in bridging the gap between **high-availability legacy systems** an
   <a href="https://www.linkedin.com/in/naveen-anpalagan">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:navu@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
