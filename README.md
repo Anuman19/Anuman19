@@ -1,4 +1,4 @@
-# 🛡️ System Security Engineer | DevOps Specialist
+# 🛡️ System Security Engineer
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=200&section=header&text=Naveen%20Anpalagan&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
